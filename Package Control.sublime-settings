@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1373347342,
+	"installed_packages":
+	[
+		"Colorcoder",
+		"GitGutter",
+		"LineEndings",
+		"Package Control",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/SublimeText/SideBarGit"
+	]
+}

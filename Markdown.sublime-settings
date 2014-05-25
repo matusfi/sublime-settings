@@ -1,0 +1,45 @@
+{
+    // Set to false to hide the gutter altogether
+    "gutter": false,
+
+    // Spacing between the gutter and the text
+    // "margin": 200,
+
+    // Columns in which to display vertical rulers
+    "rulers": [],
+
+    // Set to true to turn spell checking on by default
+    "spell_check": true,
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": true,
+
+    // Set to a value other than 0 to force wrapping at that column rather than the
+    // window width
+    "wrap_width": 80,
+
+    "line_numbers": false,
+
+    // Set to true to draw a border around the visible rectangle on the minimap.
+    // The color of the border will be determined by the "minimapBorder" key in
+    // the color scheme
+    "draw_minimap_border": true,
+
+    // Always visualise the viewport on the minimap, as oppossed to only
+    // showing it on mouse over
+    "always_show_minimap_viewport": false,
+
+    // If enabled, will highlight any line with a caret
+    "highlight_line": true,
+
+    // Draws text centered in the window rather than left aligned
+    "draw_centered": true
+}
