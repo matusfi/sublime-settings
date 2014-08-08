@@ -3,12 +3,12 @@
 	"installed_packages":
 	[
 		"Colorcoder",
-		"GitGutter",
+		"Diffy",
+		"Git",
 		"LineEndings",
 		"Package Control",
 		"Theme - Soda",
-		"Theme - Spacegray",
-		"TrailingSpaces"
+		"Theme - Spacegray"
 	],
 	"repositories":
 	[
